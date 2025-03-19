@@ -4,12 +4,10 @@ import string
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import nltk
-import os
-
-nltk.data.path.append(os.path.expanduser("~/.nltk_data"))
-
 
 ps = PorterStemmer()
+
+nltk.download('punkt')
 
 
 def transform_text(text):
