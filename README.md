@@ -126,7 +126,7 @@ Spam-Detector/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ruthu543/spam-detector.git
+git clone 
 ```
 
 ### 2. Navigate to the Project Directory
